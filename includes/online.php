@@ -1,0 +1,1 @@
+<a href="http://isaw.biz/rucrazy/logout.php">logout</a>
